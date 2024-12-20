@@ -6,7 +6,7 @@ This guide provides step-by-step instructions to set up and run the React app lo
 
 Ensure the following software is installed on your machine:
 
-- [Node.js](https://nodejs.org/) (v16 or later is recommended)
+- [Node.js](https://nodejs.org/) (v20 or later is recommended)
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) (v1.x or later)
 
 You can verify the installations by running the following commands:
